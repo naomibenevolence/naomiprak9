@@ -46,4 +46,5 @@ rounded-3 border">
     @vite('resources/js/app.js')
 </body>
 
+
 </html>
